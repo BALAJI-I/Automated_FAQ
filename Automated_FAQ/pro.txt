@@ -1,0 +1,232 @@
+Body
+Dimensions
+
+16.418 cm × 7.437 cm × 0.746 cm
+*Actual dimensions may differ due to variations in processes, measurement method, and material supplies.
+
+Weight
+
+186g
+*Actual weight may differ due to variations in processes, measurement method, and material supplies.
+
+Back Material
+
+Glass
+
+Basic
+Processor
+
+Qualcomm Snapdragon 778G
+
+RAM & ROM
+
+8 GB + 128 GB
+12 GB + 256 GB
+*Actual available RAM is less than 8 GB / 12 GB due to the storage of the operating system and pre-installed apps.
+*Actual available ROM is less than 128 GB / 256 GB due to the storage of the operating system and pre-installed apps.
+
+More
+Battery
+
+4600 mAh (TYP)
+4505 mAh (MIN)
+
+Fast Charging
+
+80W (11V/7.3A)
+
+Color
+
+Space Black, Majestic Red, Himalayan Blue
+
+Operating System
+
+Funtouch OS 13 Global
+
+Display
+Screen
+
+17.22 cm (6.78-inch)
+*Measured diagonally, the screen size is 6.78-inch in the full rectangle. Actual display area is slightly smaller.
+
+Resolution
+
+2800 × 1260 (FHD+)
+
+Type
+
+AMOLED
+
+Screen Protection Material
+
+Capacitive multi-touch
+
+Network
+Card Slot
+
+2 nano SIMs
+
+SIM Slot Type
+
+Dual SIM Dual Standby (DSDS)
+
+2G GSM
+
+GSM850/900/1800/1900MHz
+
+3G WCDMA
+
+B1/B4/B5/B8
+
+3G CDMA
+
+BC0
+
+4G FDD-LTE
+
+B1/B3/B4/B5/B7/B8/B19/B28A
+
+4G TD-LTE
+
+B34/B38/B39/B40/B41
+
+5G Band
+
+n1/n3/n5/n7/n8/n28A/n77/n78
+
+Disclaimer
+
+*Live network functionality is subject to carrier network availability, infrastructure support and software version of the mobile phone.
+
+Camera
+Camera
+
+Front: 50 MP AF
+Rear: 50 MP OIS + 8 MP wide-angle + 2 MP bokeh
+*The pixel value may vary under different camera modes, and is subject to actual usage.
+
+More
+Aperture
+
+Front: main f/2.0
+Rear: main f/1.88, wide-angle f/2.2, bokeh f/2.4
+
+Flash
+
+Rear flash, rear Smart Aura Light
+
+Scene Mode
+
+Front: Night, Portrait, Photo, Video, Micro Movie, High Resolution, Dual View, Live Photo
+Rear: Night, Portrait, Photo, Video, Micro Movie, High Resolution, Pano, Documents, Slo-mo, Time-Lapse, Supermoon, Astro, Pro, Food, Sports, Dual View, Live Photo
+
+More
+Media
+Audio Playback
+
+AAC, WAV, MP3, MP2, MP1, MIDI, Vorbis, APE, FLAC, OPUS
+
+Video Playback
+
+MP4, 3GP, AVI, FLV, MKV, WEBM, TS, ASF
+
+Video Recording
+
+MP4
+
+Voice Recording
+
+Supported
+
+Connectivity
+Wi-Fi
+
+2.4 G, 5 G
+
+Bluetooth
+
+Bluetooth 5.2
+
+USB
+
+Type-C
+
+GPS
+
+Supported
+
+OTG
+
+Supported
+
+Location
+GPS, Beidou, GLONASS, Galileo, QZSS, GNSS, NavIC
+
+Sensors
+Accelerometer
+
+Supported
+
+Ambient Light Sensor
+
+Supported
+
+Proximity Sensor
+
+Supported
+
+E-compass
+
+Supported
+
+Fingerprint
+
+In-display fingerprint sensor
+
+Gyroscope
+
+Supported
+
+In the box
+Documentation
+Type-C to USB Cable
+USB Power Adapter
+Eject Tool
+Phone Case
+Protective Film (applied)
+
+SAR Values
+India 1g SAR limit
+
+1.6 W/kg
+
+Head SAR
+
+1.19 W/kg
+
+Body-worn SAR
+
+0.91 W/kg (15 mm distance)
+
+Additional Information
+Country of Origin
+
+India
+
+Name and Address of the Manufacturer
+
+vivo Mobile India Private Limited,
+TEC-1, TEC-2 & ONE C, WORLD TRADE CENTRE NOIDA, PLOT NO: TZ-13A, TECHZONE (I.T. PARK) GREATER NOIDA: 201308, UTTAR PRADESH, INDIA
+Uttar Pradesh,India-201308
+
+More
+Generic Name
+
+Mobile phone
+
+Net quantity
+
+1 unit
+
+
+
